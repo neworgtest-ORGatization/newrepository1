@@ -41,3 +41,14 @@ Let's rename \*our-new-project\* to \*our-old-project\*.
 | --- | --- |
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
+  
+  
+ # This is a task list <h1>  
+  
+- [x] this is a complete item
+- [ ] this is an incomplete item
+- [x] @mentions, #refs, [links](),
+**formatting**, and <del>tags</del>
+supported
+- [x] list syntax required (any
+unordered or o
