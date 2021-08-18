@@ -50,5 +50,4 @@ Let's rename \*our-new-project\* to \*our-old-project\*.
 - [x] @mentions, #refs, [links](),
 **formatting**, and <del>tags</del>
 supported
-- [x] list syntax required (any
-unordered or o
+- [x] list syntax required 
