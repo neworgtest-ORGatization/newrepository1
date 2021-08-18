@@ -18,4 +18,15 @@ Alternatively,
 
 # This is an <h1> tag
 ## This is an <h2> tag
-###### This is an <h6> tag
+
+  
+In the words of Abraham Lincoln:
+
+> Pardon my French
+  
+  
+Use `git status` to list all new or modified files that haven't yet been committed.
+
+Let's rename \*our-new-project\* to \*our-old-project\*.
+
+  
