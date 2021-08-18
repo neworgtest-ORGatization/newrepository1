@@ -52,7 +52,8 @@ Let's rename \*our-new-project\* to \*our-old-project\*.
 supported
 - [x] list syntax required 
   
+  Adding image
   
-  
-  
+  ![github_repo](https://user-images.githubusercontent.com/88331884/129873554-bee9d77c-ff6f-4a95-ba36-ad6025fcea4d.jpeg)
+
 
