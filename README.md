@@ -26,9 +26,6 @@ git commit
 
 
 
-# This is a <h1> tag
-## This is a <h2> tag
-
   
 In the words of Abraham Lincoln:
 
@@ -39,7 +36,7 @@ Use `git status` to list all new or modified files that haven't yet been committ
 
 Let's rename \*our-new-project\* to \*our-old-project\*.
 
-  
+# This is a big table <h1>   
 | Command | Description |
 | --- | --- |
 | git status | List all new or modified files |
