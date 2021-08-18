@@ -51,3 +51,9 @@ Let's rename \*our-new-project\* to \*our-old-project\*.
 **formatting**, and <del>tags</del>
 supported
 - [x] list syntax required 
+  
+  
+  
+  
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
