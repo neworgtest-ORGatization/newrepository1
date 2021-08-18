@@ -10,14 +10,24 @@ Sometimes you want bullet points:
 * Start a line with a star
 * Profit!
 
-Alternatively,
 
-- Dashes work just as well
   
-  This site was built using [GitHub Pages](https://pages.github.com/).
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+``` 
+ 
+ 
+ 
+ This site was built using [GitHub Pages](https://pages.github.com/).
 
-# This is an <h1> tag
-## This is an <h2> tag
+
+
+
+# This is a <h1> tag
+## This is a <h2> tag
 
   
 In the words of Abraham Lincoln:
