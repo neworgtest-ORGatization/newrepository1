@@ -13,10 +13,9 @@ Sometimes you want bullet points:
 Alternatively,
 
 - Dashes work just as well
-- And if you have sub points, put two spaces before the dash or star:
-  - Like this
-  - And this
   
   This site was built using [GitHub Pages](https://pages.github.com/).
 
-
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
