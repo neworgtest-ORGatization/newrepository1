@@ -40,3 +40,7 @@ Use `git status` to list all new or modified files that haven't yet been committ
 Let's rename \*our-new-project\* to \*our-old-project\*.
 
   
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
